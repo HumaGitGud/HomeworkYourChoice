@@ -16,4 +16,8 @@ public class App {
         int gen3 = rand.nextInt(5);
         System.out.println(names[gen1] + " " + lastNames[gen2] + " " + ages[gen3]);
     }
+
+    public static void arrayList() {
+        
+    }
 }
